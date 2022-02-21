@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronibuchine
 - 👀 I’m interested in AI, Data Science, Machine Learning and many other forms of software development!
-- 🌱 I’m currently learning C#, Advanced OOP Programming and Design, Computer Communications and Data Security
+- 🌱 I’m currently learning Computability and Computational Complexity, Copmilers and Interpreters, and Fundamentals of Programming Languages
 - 💞️ I’m looking to collaborate on challenging and exciting projects
 - 📫 How to reach me  - https://www.linkedin.com/in/ronibuchine - ronibuchine@gmail.com
 
