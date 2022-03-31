@@ -3,7 +3,7 @@
 - 👀 I’m interested in AI, Data Science, Machine Learning and many other forms of software development!
 - 🌱 I’m currently learning Computability and Computational Complexity, Compilers and Interpreters, and Fundamentals of Programming Languages
 - 💞️ I’m looking to collaborate on challenging and exciting projects
-- 📫 How to reach me  - [Linkedin](https://www.linkedin.com/in/ronibuchine) ![](https://www.flaticon.com/free-icon/linkedin_174857)
+- 📫 How to reach me  - [Linkedin](https://www.linkedin.com/in/ronibuchine) ![](https://cdn-icons-png.flaticon.com/512/174/174857.png)
 
 <!---
 ronibuchine/ronibuchine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
