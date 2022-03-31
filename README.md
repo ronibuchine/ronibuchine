@@ -10,25 +10,25 @@ ronibuchine/ronibuchine is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ## Programming Languages
-![](https://img.shields.io/badge/PYTHON-EXPERT-yellow?labelColor=blue&logo=python&style=for-the-badge)
+![](https://img.shields.io/badge/PYTHON-EXPERT-blue?labelColor=yellow&logo=python&style=for-the-badge)
 ![](https://img.shields.io/badge/C%23-EXPERT-cbc3e3?labelColor=purple&logo=csharp&style=for-the-badge)
 
-![](https://img.shields.io/badge/JAVA-VERY%20GOOD-8B0000?labelColor=blue&logo=java&style=for-the-badge)
+![](https://img.shields.io/badge/JAVA-VERY%20GOOD-blue?labelColor=8B0000&logo=java&style=for-the-badge)
 ![](https://img.shields.io/badge/C%2B%2B-VERY%20GOOD-lightblue?labelColor=blue&logo=cplusplus&style=for-the-badge)   
 
 ![](https://img.shields.io/badge/C-VERY%20GOOD-lightblue?labelColor=lightgray&logo=c&style=for-the-badge)
 ![](https://img.shields.io/badge/GO-VERY%20GOOD-lightblue?labelColor=FFE5B4&logo=go&style=for-the-badge)   
 
-![](https://img.shields.io/badge/XQUERY-VERY%20GOOD-green?labelColor=lightgray&logo=xrp&style=for-the-badge)
+![](https://img.shields.io/badge/XQUERY-VERY%20GOOD-lightgray?labelColor=green&logo=xrp&style=for-the-badge)
 ![](https://img.shields.io/badge/bash-INTERMEDIATE-darkgreen?labelColor=lightgray&logo=gnubash&style=for-the-badge)   
 
 ![](https://img.shields.io/badge/SQL-VERY%20GOOD-green?labelColor=blue&logo=databricks&style=for-the-badge)
-![](https://img.shields.io/badge/PROLOG-VERY%20GOOD-orange?labelColor=blue&logo=hootsuite&style=for-the-badge)   
+![](https://img.shields.io/badge/PROLOG-VERY%20GOOD-blue?labelColor=orange&logo=hootsuite&style=for-the-badge)   
 
 ## Other Skills
 
 ![](https://img.shields.io/badge/OOP-EXPERT-darkred?labelColor=red&style=for-the-badge)
-![](https://img.shields.io/badge/FUNCTIONAL%20PROGRAMMING-EXPERT-darkblue?labelColor=blue&style=for-the-badge) 
+![](https://img.shields.io/badge/FUNCTIONAL%20PROGRAMMING-EXPERT-blue?labelColor=darkblue&style=for-the-badge) 
 ![](https://img.shields.io/badge/AGILE-EXPERT-orange?labelColor=cc5500&style=for-the-badge)
 
 ![](https://img.shields.io/badge/MULTITHREADING-VERY%20GOOD-purple?labelColor=cbc3e3&style=for-the-badge) 
@@ -36,5 +36,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/LINUX-VERY%20GOOD-yellow?labelColor=000000&style=for-the-badge&logo=linux)   
 
 ![](https://img.shields.io/badge/SOLID-EXPERT-gray?labelColor=cccccc&style=for-the-badge)
-![](https://img.shields.io/badge/.NET-VERY%20GOOD-cccccc?labelColor=cbc3e3&style=for-the-badge&logo=.net)  
+![](https://img.shields.io/badge/.NET-VERY%20GOOD-cbc3e3?labelColor=cccccc&style=for-the-badge&logo=.net)  
 ![](https://img.shields.io/badge/ORACLE-VERY%20GOOD-aaaaaa?labelColor=cc5500&style=for-the-badge&logo=oracle)   
