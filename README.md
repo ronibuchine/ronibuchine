@@ -31,10 +31,10 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/FUNCTIONAL%20PROGRAMMING-VERY%20GOOD-blue?labelColor=darkblue&style=for-the-badge) 
 ![](https://img.shields.io/badge/AGILE-VERY%20GOOD-orange?labelColor=cc5500&style=for-the-badge)
 
-![](https://img.shields.io/badge/MULTITHREADING-VERY%20GOOD-purple?labelColor=cbc3e3&style=for-the-badge) 
+![](https://img.shields.io/badge/MULTITHREADING-VERY%20GOOD-cbc3e3?labelColor=purple&style=for-the-badge) 
 ![](https://img.shields.io/badge/GIT-VERY%20GOOD-cc5500?labelColor=gray&style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/LINUX-INTERMEDIATE-yellow?labelColor=000000&style=for-the-badge&logo=linux)   
 
-![](https://img.shields.io/badge/SOLID-EXPERT-gray?labelColor=cccccc&style=for-the-badge)
+![](https://img.shields.io/badge/SOLID-EXPERT-cccccc?labelColor=gray&style=for-the-badge)
 ![](https://img.shields.io/badge/.NET-VERY%20GOOD-cbc3e3?labelColor=cccccc&style=for-the-badge&logo=.net)  
 ![](https://img.shields.io/badge/ORACLE-VERY%20GOOD-aaaaaa?labelColor=cc5500&style=for-the-badge&logo=oracle)   
